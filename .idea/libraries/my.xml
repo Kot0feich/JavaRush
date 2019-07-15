@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="my">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/javarush/task/task25/task2515/my.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
