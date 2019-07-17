@@ -25,5 +25,6 @@ public class Solution {
         //преобразовываем все записанное во StringWriter в строку
         String result = writer.toString();
         System.out.println(result);
+        System.out.println("test");
     }
 }
